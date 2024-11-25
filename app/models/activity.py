@@ -2,6 +2,8 @@
 from sqlalchemy import Column, Integer, String, ForeignKey
 from sqlalchemy.orm import relationship
 from app.database import Base
+#Class for model database
+
 
 class Activity(Base):
     __tablename__ = "activities"

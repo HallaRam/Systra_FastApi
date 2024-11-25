@@ -19,7 +19,7 @@ This version is a beta release:
 Some features may not yet be fully implemented or optimized.
 Bugs and issues may occur during use.
 Performance enhancements and additional features are planned for future releases.
-We value your feedback! Please share your experiences or report bugs at support@systra.com.
+We value your feedback!
 
 How to Use
 Access the Application: Log in to your account to start managing workflows.

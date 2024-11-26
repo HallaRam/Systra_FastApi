@@ -2,6 +2,8 @@ Systra Workflow Management System (Beta Version)
 Overview
 The Systra Workflow Management System is designed to streamline project workflows, enhance collaboration, and improve efficiency for teams. As a beta version, this release includes core features but may have some limitations or areas for improvement. We welcome feedback to help us refine and enhance the system.
 
+
+
 Features
 For Admins:
 Assign Responsibility: Assign an admin to a workflow to ensure accountability.
@@ -38,8 +40,3 @@ Accountability Tools: Ensure project ownership with admin assignment features.
 Offline Capability: Export workflows to Excel for local editing and sharing.
 Error Correction: Flexible tools to delete and update work entries.
 Getting Started
-To get started with the Systra Workflow Management System:
-
-Log in to your account.
-Use the intuitive dashboard to create or view workflows.
-Explore admin or user-specific features to manage your tasks efficiently.

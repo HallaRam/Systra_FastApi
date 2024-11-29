@@ -1,10 +1,10 @@
-Systra Workflow Management System (Beta Version)
-Overview
+## Systra Workflow Management System (Beta Version)
+## Overview
 The Systra Workflow Management System is designed to streamline project workflows, enhance collaboration, and improve efficiency for teams. As a beta version, this release includes core features but may have some limitations or areas for improvement. We welcome feedback to help us refine and enhance the system.
 
 
 
-Features
+# Features
 For Admins:
 Assign Responsibility: Assign an admin to a workflow to ensure accountability.
 Template Creation: Create reusable workflow templates to save time on similar projects.
@@ -23,7 +23,7 @@ Bugs and issues may occur during use.
 Performance enhancements and additional features are planned for future releases.
 We value your feedback!
 
-How to Use
+# How to Use
 Access the Application: Log in to your account to start managing workflows.
 For Admins:
 Navigate to the Admin Panel to assign responsibilities and create templates.
@@ -39,6 +39,10 @@ Detailed Task Planning: Break down tasks into activities and subactivities for c
 Accountability Tools: Ensure project ownership with admin assignment features.
 Offline Capability: Export workflows to Excel for local editing and sharing.
 Error Correction: Flexible tools to delete and update work entries.
+
+
+## Prerequisites
+- Ensure **Python 3.1 and above** and **FastApi** are installed on your system.
 
 # Backend Setup and Running Guide
 
